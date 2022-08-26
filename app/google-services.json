@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "330154076667",
+    "project_id": "e-attendance-c6021",
+    "storage_bucket": "e-attendance-c6021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330154076667:android:82bd80bab207cec8d2435e",
+        "android_client_info": {
+          "package_name": "com.example.e_attendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330154076667-1b9ce9330j5fdrv9odpl3llq1fpnuiuh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPczz8j1WdAi6OTCMX1RggWjRPjRaQxeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330154076667-1b9ce9330j5fdrv9odpl3llq1fpnuiuh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

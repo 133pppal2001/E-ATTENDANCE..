@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">E-Attendance</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="new_user">New User</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="profile">View Profile</string>
+    <string name="mark_attendance">Mark Attendance</string>
+</resources>
