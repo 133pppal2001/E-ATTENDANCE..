@@ -7,4 +7,5 @@
     <string name="logout">Logout</string>
     <string name="profile">View Profile</string>
     <string name="mark_attendance">Mark Attendance</string>
+    <string name="user_profile">USER PROFILE</string>
 </resources>
